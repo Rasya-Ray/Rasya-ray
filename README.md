@@ -1,38 +1,29 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rasya-Ray</h1>
+<h3 align="center">A profesional backend Developer</h3>
 
-<img src="https://media.giphy.com/media/wAxlCmeX1Fiiw/giphy.gif" width="250" alt="Hatsune Miku"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasya-ray&label=Profile%20views&color=0e75b6&style=flat" alt="rasya-ray" /> </p>
 
-# Hi 👋, I'm Rasya
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasya-ray" alt="rasya-ray" /></a> </p>
 
-### 💻 Developer | PHP • Laravel • React JS • TypeScript
+- 🔭 I’m currently working on **Nevtik**
 
-</div>
+- 🌱 I’m currently learning **Laravel and Nextjs**
 
----
+- 💬 Ask me about **React laravel PHP sql and anything**
 
-### 🛠️ Tech Stack
+- 📫 How to reach me **mmemersid@gmail.com**
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ⚡ Fun fact **I like about function story about time travel**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasya-ray&show_icons=true&locale=en&layout=compact" alt="rasya-ray" /></p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rasy-Ray&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasy-Ray&theme=radical&hide_border=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasya-ray&show_icons=true&locale=en" alt="Rasya-Ray" /></p>
 
-</div>
-
----
-
-### 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rasy-Ray)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasya-ray&" alt="rasya-ray" /></p>
